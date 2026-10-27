@@ -32,13 +32,9 @@ Desarrollo y mantengo sistemas de documentos tributarios electrónicos que opera
 
 ## 📂 Sobre mis repositorios
 
-El código de mi trabajo en Digifact es privado. Los repositorios públicos son proyectos de la universidad (compiladores, estructuras de datos, desarrollo de software). Otros proyectos recientes siguen privados por políticas de los cursos, pero con gusto los comento en una entrevista.
+El código de mi trabajo actual es privado. Los repositorios públicos son proyectos de la universidad (compiladores, estructuras de datos, desarrollo de software). Mis proyectos más recientes siguen privados por políticas de los cursos, pero con gusto los comento en una entrevista.
 
-Proyecto destacado:
-
-- [`AYD1_S2_G2` (EduConnect)](https://github.com/DanielJH65/AYD1_S2_G2): plataforma de tutorías académicas hecha en equipo (6 personas) con **TypeScript, Hono, React 19, PostgreSQL y Docker**. Incluye pipeline de CI/CD con GitHub Actions, pruebas unitarias, de integración y E2E con Cypress, y documentación completa. Fui Scrum Master y responsable del backend del administrador, la base de datos, la infraestructura y el CI/CD.
-
-Otros proyectos públicos de la universidad:
+Algunos proyectos públicos de la universidad:
 
 - [`OLC2_Proyecto2_201901108`](https://github.com/DanielJH65/OLC2_Proyecto2_201901108): proyecto de Organización de Lenguajes y Compiladores 2.
 - [`OLC1_VJ24_201901108`](https://github.com/DanielJH65/OLC1_VJ24_201901108): proyecto de Organización de Lenguajes y Compiladores 1 (Java).
